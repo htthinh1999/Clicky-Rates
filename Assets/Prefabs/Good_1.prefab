@@ -123,3 +123,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   explosionParticle: {fileID: 2088871590894813759, guid: 745208c9d6e104225bd99e1ab894e3bb,
     type: 3}
+  colliderOfOthers:
+  - {fileID: 5749116531797985679, guid: e9d4245455bd6574baa366260374b02b, type: 3}
+  - {fileID: 7792488015019656598, guid: 2b6174210f2cd9f46b11726d41b7368f, type: 3}
+  - {fileID: 2365657054601347591, guid: 1d08a8d9a6ac5e9479ad171b2a7e35ec, type: 3}
